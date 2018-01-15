@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+I study plant-bacteria interactions from the perspective of bacterial pangenome evolution. This means working with large isolate collections, comparative genomics, and experimental genetics to develop a deeper understanding of how bacteria compete, survive and evolve on the plant root. Ultimately, I want to  
+use this knowledge to develop microbial solutions to improve the productivity and sustainability of 21st century agriculture.
 
-You can use the [editor on GitHub](https://github.com/ryanmelnyk/ryanmelnyk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Currently I'm a postdoc with [Dr. Cara Haney](http://haneylab.msl.ubc.ca/) at the University of British Columbia. I use the highly tractable **Pseudomonas**-**Arabidopsis** model system to understand how variation in gene content can affect . Recently, I've developed [PyParanoid](https://github.com/ryanmelnyk/PyParanoid) which is a python package for identifying homologous genes across really large sets (i.e. 1000s) of bacterial genomes. Using PyParanoid, I've found that genomic island gain and loss in a clade of root-associated **Pseudomonas** spp. can trigger shifts in lifestyle from beneficial to pathogenic.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Links
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ryanmelnyk/ryanmelnyk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Google Scholar](https://scholar.google.ca/citations?user=1UrRpssAAAAJ&hl=en)
+[GitHub](https://github.com/ryanmelnyk)
+[Twitter](https://twitter.com/ryanmelnyk)
+[LinkedIn](https://www.linkedin.com/in/ryan-a-melnyk-9bab1282/)

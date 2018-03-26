@@ -1,4 +1,4 @@
-<img src="src/melnyk_lowres.jpg">
+<img src="src/melnyk_lowres.jpg" width="50%" height="50%">
 
 I study plant-bacteria interactions from the perspective of bacterial pangenome evolution. This means working with large isolate collections, comparative genomics, and experimental genetics to develop a deeper understanding of how bacteria compete, survive and evolve on the plant root. Ultimately, I want to  use this knowledge to develop microbial solutions to improve the productivity and sustainability of 21st century agriculture.
 

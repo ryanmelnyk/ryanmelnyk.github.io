@@ -6,6 +6,8 @@ Currently I'm a postdoc with [Dr. Cara Haney](http://haneylab.msl.ubc.ca/) at th
 
 ### Links
 
+<a href ="src/melnyk_1804.pdf">Curriculum Vitae</a>
+
 [Google Scholar](https://scholar.google.ca/citations?user=1UrRpssAAAAJ&hl=en)
 
 [GitHub](https://github.com/ryanmelnyk)

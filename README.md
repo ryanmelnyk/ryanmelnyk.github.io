@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 <img src="src/melnyk_lowres.jpg" width="25%" height="25%">
 

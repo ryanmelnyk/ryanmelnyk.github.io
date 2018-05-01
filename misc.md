@@ -1,1 +1,8 @@
+---
+layout: default
+---
+
 # Miscellaneous
+
+
+[back](./)

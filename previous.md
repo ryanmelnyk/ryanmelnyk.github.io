@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: previous.html
 ---
 
 # Previous Projects and Affiliations

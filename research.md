@@ -3,10 +3,14 @@ layout: default
 permalink: research.html
 ---
 
-# Research
+# Research Overview
 
-### Bacteria
+## Evolution of pathogenic/beneficial lifestyles
 
-### Plants
+## Nutrient niches in the rhizosphere
+
+## Bacterial population genomics in agricultural soils
+
+## Engineering persistent rhizosphere communities
 
 [back](./)

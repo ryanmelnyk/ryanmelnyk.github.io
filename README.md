@@ -11,7 +11,7 @@ In May 2018, I began working in the [Sundar Lab](http://www-plb.ucdavis.edu/Labs
 
 ### Links
 
-<a href ="src/melnyk_1804.pdf">Curriculum Vitae</a>
+<a href ="src/MelnykCV.pdf">Curriculum Vitae</a>
 
 [Google Scholar](https://scholar.google.ca/citations?user=1UrRpssAAAAJ&hl=en)
 

@@ -5,7 +5,9 @@ permalink: pubs.html
 
 ### Primary publications
 
-***Ryan A. Melnyk***, Sarzana S. Hossain, and Cara H. Haney. [Convergent gain and loss of genomic islands drives lifestyle changes in plant-associated bacteria](https://www.biorxiv.org/content/early/2018/06/12/345488). bioRxiv. 2018. doi:10.1101/345488
+***Ryan A. Melnyk***#, Polina Beskrovnaya#, Zhexian Liu, Yi Song, and Cara H. Haney. [Bacterially produced spermidine induces plant systemic susceptibility to pathogens](https://www.biorxiv.org/content/10.1101/517870v1). #Equal contributions. bioRxiv. 2019. doi:10.1101/517870
+
+***Ryan A. Melnyk***, Sarzana S. Hossain, and Cara H. Haney. [Convergent gain and loss of genomic islands drives lifestyle changes in plant-associated bacteria](https://www.biorxiv.org/content/early/2018/06/12/345488). bioRxiv. 2018. doi:10.1101/345488 Accepted for publication in ISME January 2019.
 
 ***Ryan A. Melnyk*** and John D. Coates. [The Perchlorate Reduction Genomic Island: Mechanisms and Pathways of Evolution by Horizontal Gene Transfer](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2011-5). BMC Genomics. 2016, 16(1), 862.
 
